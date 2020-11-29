@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+
+}
+
+body{
+    border: solid;
+    background-color: cornsilk;
+}
+
+#hi{
+    color:red 
+}
+
+#mon{
+   
+    color:blue
+    
+    
+}
+
+#link{
+    display: flex;
+
+    justify-content: center;
+}
+
+img{
+    border-width: 2;
+    
+    border-radius: 100px;
+   
+
+    border-style: solid;
+}
